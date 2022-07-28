@@ -1,0 +1,4 @@
+##Analysis 
+#There is over a 6% difference in overall passing rate between government and independent schools. This may be because independent schools usually have more room to make administrative decisions.
+#As per student budget increases, surprisingly, overall passing rate does not increase. This suggests that per capita budget may not be a large factor in student success.
+# Small and medium school population sizes had an over 8% better overall passing rate than large schools. This could be because smaller size schools can allocate more resources and teacher attention to each student.
